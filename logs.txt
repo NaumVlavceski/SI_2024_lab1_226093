@@ -1,0 +1,42 @@
+commit a218b0cf41d9a661aea75fe391a107072a46edb4
+Merge: 2cb879e 0d7a205
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Mon Apr 1 13:56:42 2024 +0200
+
+    Resolved merge conflict in SILab1Main.java
+
+commit 2cb879e8f20d68d412758c0cb5b5f8d60a127737
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Mon Apr 1 13:43:26 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0d7a20544d2b2c26f491c044cf893ffded450257
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Mon Apr 1 13:40:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit c6c792adfb8a5635cf212a6b71018e20edf97306
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Mon Apr 1 13:35:52 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ceba82b452a51df9e8059cbf608a76d7b8123302
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Mon Apr 1 13:34:26 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit b3d66ffd9597db3ca047c61b9470e88783f3e547
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Sun Mar 31 18:50:20 2024 +0200
+
+    Add starter code
+
+commit 4dce68bf2d66a7af0313b7362b683e59f2b3496e
+Author: unknown <nomce.vlav4eski@hotmail.com>
+Date:   Sun Mar 31 18:44:56 2024 +0200
+
+    Initial commit
